@@ -15,5 +15,7 @@ The datasets can be accessed here:
 2. For [Random Forests by Conditional Inference Trees](https://github.com/JalalAl-Tamimi/R-Voicing-Gemination-VOT/blob/master/ResultsFullOriginalData.csv)
 
 
+To cite the analyses in the notebooks, use: 
 
+[![DOI](https://zenodo.org/badge/142136972.svg)](https://zenodo.org/badge/latestdoi/142136972)
 
