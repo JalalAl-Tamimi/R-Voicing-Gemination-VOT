@@ -2,7 +2,7 @@
 
 This repo contains the analyses performed for the paper:
 
-Al-Tamimi, J. and Khattab, G., (2018). *Acoustic correlates of the voicing contrast in Lebanese Arabic singleton and geminate plosives*. Invited manuscript for the special issue of Journal of Phonetics, "Marking 50 Years of Research on Voice Onset Time and the Voicing Contrast in the World’s Languages" (eds., T. Cho, G. Docherty & D. Whalen). In Press
+Al-Tamimi, J. and Khattab, G., (2018). *Acoustic correlates of the voicing contrast in Lebanese Arabic singleton and geminate plosives*. Invited manuscript for the special issue of Journal of Phonetics, "Marking 50 Years of Research on Voice Onset Time and the Voicing Contrast in the World’s Languages" (eds., T. Cho, G. Docherty & D. Whalen). In Press. https://doi.org/10.1016/j.wocn.2018.09.010
 
 Two types of analyses were performed:
 
